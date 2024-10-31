@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkusStark07
+- 👋 Hi, I’m @marek-gajdos
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
